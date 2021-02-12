@@ -1,0 +1,4 @@
+fastapi
+PyYaml
+uvicorn
+python-multipart
